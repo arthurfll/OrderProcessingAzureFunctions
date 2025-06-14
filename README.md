@@ -1,1 +1,15 @@
-# OrderProcessingAzureFunctions
+STACK:
+  - AZURE FUNCTIONS
+  - C# / .NET
+  - DOCKER
+  - GIT / GITHUB
+  - SWAGGER
+  - REDIS
+  - ENTITY FRAMEWORK
+  - COSMOS DB
+
+
+
+INÍCIO:  13/06/2025  21:07:00
+TÉRMINO: 15/06/2025  21:07:00
+
