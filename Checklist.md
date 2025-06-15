@@ -1,11 +1,11 @@
-[ ] - Configurar o Docker
+[X] - Configurar o Docker
 [X] - Configurar o Azurite
-[ ] - Iniciar o projeto
+[X] - Iniciar o projeto
 [ ] - Configurar a Fila
 [ ] - Configurar o Entity Framework
 [ ] - Configurar o Envio de Emails
-[ ] - Definir os Endpoints
-[ ] - Definir os Triggers e os Bindings
+[X] - Definir os Endpoints
+[X] - Definir os Triggers e os Bindings
 [ ] - Desenvolver as App Functions
 [ ] - Configurar o Swagger
 [ ] - Configurar o Cache com Redis
